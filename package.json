@@ -6,7 +6,7 @@
   "license": "ISC",
   "source": "src/index.html",
   "scripts": {
-    "start": "PORT=3000 node ./server.js",
+    "start": "npm run build && PORT=3000 node ./server.js",
     "dev": "npm run clean && parcel ./index.html --no-cache --no-source-maps",
     "build": "npm run clean && parcel build ./index.html --no-cache --no-source-maps",
     "clean": "rm -rf dist",
