@@ -1,5 +1,11 @@
 # yandex-practicum-messenger
-Чат для курса мидл-фронтед разработчик от Яндекс Практикум
+Чат для курса мидл-фронтенд разработчик от Яндекс Практикум
+
+## Ссылка на проект
+https://poetic-chat.netlify.app/
+
+## Ссылка на макет
+[Figma](https://www.figma.com/file/a6G8BmMcGCD8QFLsRbwtKy/poetic-chat?node-id=0-1&t=e0Rkz8AkfbGRHBMJ-0)
 
 ### Сборка и запуск
 Сборка проекта через [Parcel](https://parceljs.org/):
