@@ -34,3 +34,5 @@ npm run dev
 - HTML
 - Parcel
 - Express
+
+## Sprint 1 [Pull Request](https://github.com/wer3xkz/middle.messenger.praktikum.yandex/pull/2)
